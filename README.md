@@ -42,6 +42,7 @@ LLM/Agent 기반 서비스를 직접 만드는 개발자를 지향합니다.
 MIMIC-IV 의료 데이터를 활용해 4인 팀으로 개발한 질병 검색·시각화 시스템.
 - MariaDB 서버를 팀원들과 공동 구축, 다중 사용자 동시 접속 환경에서 협업
 - 연령대(10~90세)별 질병 검색 쿼리 설계 및 Python 시각화 담당
+- **Repo**: [mimic4-mariadb-disease-search](https://github.com/KimYeEun22016/mimic4-mariadb-disease-search)
 - **Tags**: `MariaDB` `Python` `Data Visualization` `팀 프로젝트`
 
 ### 3. DB 실습 프로젝트 (2024)
@@ -53,8 +54,13 @@ MariaDB·SQLite를 활용한 데이터 전처리 및 태블로(Tableau) 시각�
 최근에는 LLM/AI 에이전트 기본 개념도 함께 학습 중.
 - **Tags**: `Python` `Study Group` `LLM 기초 학습`
 
+### 5. 축구 데이터 통합 분석 (빅데이터분석 프로젝트)
+FIFA 선수 데이터셋으로 나이·능력치·시장가치·포지션별 관계를 분석.
+pandas/matplotlib/seaborn 기반 EDA, 상관관계 분석, 포지션·클럽별 비교.
+- **Repo**: [fifa-player-data-analysis](https://github.com/KimYeEun22016/fifa-player-data-analysis)
+- **Tags**: `Python` `pandas` `matplotlib` `seaborn` `EDA` `빅데이터분석`
+
 ---
 
 ## 🎯 관심 분야
 LLM 기반 Agentic AI Platform 개발, RAG/Graph 연동, AI 모델 평가(Evals) 및 운영
-

@@ -58,4 +58,3 @@ MariaDB·SQLite를 활용한 데이터 전처리 및 태블로(Tableau) 시각�
 ## 🎯 관심 분야
 LLM 기반 Agentic AI Platform 개발, RAG/Graph 연동, AI 모델 평가(Evals) 및 운영
 
-> 이 저장소는 (주)가온아이 AX Engineer 채용 지원을 위한 포트폴리오 정리본입니다.
